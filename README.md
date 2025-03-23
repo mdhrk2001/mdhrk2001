@@ -33,7 +33,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio Site](https://mdhrk2001-portfolio.vercel.app/projects)
 - 💬 Ask me about **MongoDB, Express, React and Node.js (MERN)**
 - 📫 How to reach me **randikaheshan183@gmail.com**
-- - ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **I think I'm funny**
 <!-- - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume) -->
 <br>
 
