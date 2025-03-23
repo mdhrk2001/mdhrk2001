@@ -126,9 +126,49 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mdhrk2001&theme=algolia&background=0d1117&hide_border=true)](https://git.io/streak-stats)
 
+[![Randika's GitHub Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdhrk2001&theme=radical&hide_border=true)](https://github.com/mdhrk2001/mdhrk2001)
+
 </div>
 <br>
 
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+<h3 align="left">My GitHub Repos:</h3>
+<div align="center">
+
+<a href="https://github.com/mdhrk2001/my-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=my-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+<a href="https://github.com/mdhrk2001/online-shopping-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=online-shopping-site&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+<a href="https://github.com/mdhrk2001/Volunteer-Web-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=Volunteer-Web-Application&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/mdhrk2001/hotel-booking-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=hotel-booking-system&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/mdhrk2001/Pet_Care_Center-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=Pet_Care_Center-website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/mdhrk2001/Final-Project-Coursera-HTML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=Final-Project-Coursera-HTML&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
+<a href="https://github.com/mdhrk2001/Final-Project-Coursera-CSS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=Final-Project-Coursera-CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+</div>
+<be>
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
