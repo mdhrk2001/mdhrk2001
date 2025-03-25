@@ -10,7 +10,7 @@
 <h3 align="center">A Tech enthusiast from Sri Lanka</h3>
 <p align="center">I am a 3<sup>rd</sup> year Software Engineering undergraduate with expertise in full-stack development, problem-solving, and UI/UX design. Passionate about building scalable, high-performance web applications using modern technologies. Proficient in Next.js (React), TypeScript, Node.js, Express, MongoDB, and Tailwind CSS. Currently focusing on mastering machine learning with Python. 🛠️</p>
 <p align="center">  
-<img src="https://img.shields.io/badge/Languages- JavaScript | TypeScript | Python | Java | PHP | MySQL -blue.svg" alt="supun nanayakkara's languages" />
+<img src="https://img.shields.io/badge/Languages- JavaScript | TypeScript | Python | Java | PHP | MySQL -blue.svg" alt="Randika Karanayaka's languages" />
 </p>
 
 <div align="center">
