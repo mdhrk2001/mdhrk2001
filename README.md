@@ -106,7 +106,7 @@
 <h3 align="left">My Github Trophies:</h3>
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdhrk2001&layout=compact&theme=algolia" alt="thenuka99" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdhrk2001&layout=compact&theme=algolia" alt="Randika | Github Trophies" />
  </a>
 </p>
 <br>
