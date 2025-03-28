@@ -141,8 +141,8 @@
 <h3 align="left">My GitHub Repos:</h3>
 <div align="center">
 
-<a href="https://github.com/mdhrk2001/my-portfolio2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=my-portfolio2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/mdhrk2001/my-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mdhrk2001&repo=my-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/mdhrk2001/online-shopping-site">
