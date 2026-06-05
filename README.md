@@ -9,9 +9,9 @@
   <img alt="Profile followers" src="https://img.shields.io/github/followers/mdhrk2001">
 </p>
 <h3 align="center">A Tech enthusiast from Sri Lanka</h3>
-<p align="center">I am a 3<sup>rd</sup> year Software Engineering undergraduate with expertise in full-stack development, problem-solving, and UI/UX design. Passionate about building scalable, high-performance web applications using modern technologies. Proficient in Next.js (React), TypeScript, Node.js, Express, MongoDB, and Tailwind CSS. Currently focusing on mastering machine learning with Python. 🛠️</p>
+<p align="center">I am a 4<sup>th</sup> year Software Engineering undergraduate with expertise in full-stack development, problem-solving, and UI/UX design. Passionate about building scalable, responsive, high-performance web applications using modern technologies. Proficient in MERN stack, Next.js (TypeScript) & Tailwind CSS. Currently focusing on mastering machine learning with Python. 🛠️</p>
 <p align="center">  
-<img src="https://img.shields.io/badge/Languages- JavaScript | TypeScript | Python | Java | PHP | MySQL -blue.svg" alt="Randika Karanayaka's languages" />
+<img src="https://img.shields.io/badge/Languages- JavaScript | TypeScript | Java | PHP | MySQL -blue.svg" alt="Randika | Pro.Languages" />
 </p>
 
 <div align="center">
@@ -31,8 +31,8 @@
 
 - 🔭 I’m an undergraduate for a **BSc (Hons) in Software Engineering**
 - 🌱 I’m currently learning **ML with Python**
-- 👨‍💻 All of my projects are available at [My Portfolio Site](https://mdhrk2001-portfolio.vercel.app/projects)
-- 💬 Ask me about **MongoDB, Express, React and Node.js (MERN)**
+- 👨‍💻 All of my projects are available at my [Portfolio](https://mdhrk2001-portfolio.vercel.app/projects) website.
+- 💬 Ask me about **MERN** stack & **Next.js**
 - 📫 How to reach me **randikaheshan183@gmail.com**
 - ⚡ Fun fact **I think I'm funny**
 <!-- - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume) -->
@@ -46,11 +46,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mdhrk2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdhrk2001 | LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mdhrk2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdhrk2001 | Facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mdhrk2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdhrk2001 | Instagram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mdhrk2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdhrk2001 | YouTube" height="30" width="40" /></a>
-<a href="https://wa.me/+94701048274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mdhrk2001 | YouTube" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mdhrk2001/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://wa.me/+94701048274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp" height="40" width="40" /></a>
+<a href="mailto:randikaheshan183@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" /></a>
 </p>
 <br>
 
@@ -65,14 +63,21 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,javascript,typescript" />
+  </a>
+</p>
+
+- Mobile
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
   </a>
 </p>
 
@@ -83,17 +88,17 @@
   </a>
 </p>
 
-- Cloud Servers
+- Cloud & Hosting
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,firebase" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,selenium,figma,idea,vscode,postman" />
   </a>
 </p>
 <br/>
