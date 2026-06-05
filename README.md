@@ -46,8 +46,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mdhrk2001/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://wa.me/+94701048274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/mdhrk2001/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://wa.me/+94701048274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="mailto:randikaheshan183@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" /></a>
 </p>
 <br>
