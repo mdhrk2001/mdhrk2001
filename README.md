@@ -31,7 +31,7 @@
 
 - 🔭 I’m an undergraduate for a **BSc (Hons) in Software Engineering**
 - 🌱 I’m currently learning **ML with Python**
-- 👨‍💻 All of my projects are available at my [Portfolio](https://mdhrk2001-portfolio.vercel.app/projects) website.
+- 👨‍💻 All of my projects are available at my [Portfolio](https://mdhrk2001-portfolio.vercel.app/#projects) website.
 - 💬 Ask me about **MERN** stack & **Next.js**
 - 📫 How to reach me **randikaheshan183@gmail.com**
 - ⚡ Fun fact **I think I'm funny**
