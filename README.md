@@ -126,11 +126,11 @@
 <h3 align="left">My GitHub Stats:</h3>
 <div align="center">
 
-[![Randika | Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhrk2001&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Randika | Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhrk2001&layout=compact&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Randika | Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mdhrk2001&layout=compact&langs_count=8&theme=algolia)
 
-[![Randika | GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhrk2001&show_icons=true&show=reviews,prs_merged,prs_merged_percentage,contribs,issues&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Randika | GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhrk2001&show_icons=true&show=reviews,prs_merged,prs_merged_percentage,contribs,issues&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Randika | GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mdhrk2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
